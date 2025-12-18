@@ -1,2 +1,3 @@
-# Week3
+# Solar Power Prediction
+The objective of this project is to create an application for solar power prediction using various factors such as wether, setup cost, distance, location, compatibility etc, using the matplotlib.pyplot and seaborn libraries in python to create graphs for visualization after performing multiple numerical analyses on the given dataset.
 After the graphs, the notebook focuses on feature selection, model training, and evaluation using Linear Regression for solar power prediction. It preprocesses data, splits it for training/testing, and evaluates performance with MAE, MSE, and R² scores. Results highlight key factors influencing power generation. The notebook suggests improvements like advanced models (Random Forest, Neural Networks) and hyperparameter tuning for better accuracy.
